@@ -4,5 +4,6 @@ public class gitPrueba {
 			System.out.println("Hola Git Prueba");
 			System.out.println("Adios Git Prueba");
 			System.out.println("Hola nueva rama");
+			System.out.println("Adios nueva rama");
 }
 }
